@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-27T11:27:23 IST" name="Default suite" finished-at="2024-11-27T11:27:45 IST" duration-ms="22164">
+    <groups>
+    </groups>
+    <test started-at="2024-11-27T11:27:23 IST" name="Default test" finished-at="2024-11-27T11:27:45 IST" duration-ms="22164">
+      <class name="mpack.OneTest">
+        <test-method signature="mOne()[pri:0, instance:mpack.OneTest@506ae4d4]" started-at="2024-11-27T11:27:23 IST" name="mOne" finished-at="2024-11-27T11:27:41 IST" duration-ms="18245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mOne -->
+        <test-method is-config="true" signature="mne()[pri:0, instance:mpack.OneTest@506ae4d4]" started-at="2024-11-27T11:27:41 IST" name="mne" finished-at="2024-11-27T11:27:45 IST" duration-ms="3829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mne -->
+      </class> <!-- mpack.OneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
